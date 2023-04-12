@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Multimedia</title>
+    </head>
+    <body>
+        <section>
+            <h1>Aprendiendo a utilizar imágenes</h1>
+            <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.tomsguide.fr%2Fcontent%2Fuploads%2Fsites%2F2%2F2022%2F06%2Feuro-truck.jpg&sp=1681330383T9e491e773ff81a274b110c2d2759cc89c8d875c55be1d6701ec66c6930079060" alt="Logo ETS2" height="200" width="300">
+        </section>
+        <section>
+            <h1>Aprendiendo a utilizar los vídeos</h1>
+            <video controls autoplay muted loop>
+                <source src="video1" type="video/mp4">
+            </video>
+        </section>
+        <section>
+            <h1>Aprendiendo a utilizar los audios</h1>
+            <audio controls autoplay loop>
+                <source src="audio1" type="audio/mp3">
+            </audio>
+        </section>
+    </body>
+</html>
