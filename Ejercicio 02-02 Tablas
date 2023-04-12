@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio 02/2 - Tablas en HTML</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>The sound and the fury</td>
+                <td>William Faulkner</td>
+                <td>1929</td>
+                <td>https://www.amazon.com/The-Sound-and-Fury-audiobook/dp/B000A7KJ8Q/ref=sr_1_1?crid=VYXQLI1KNIJA&keywords=the+sound+and+the+fury&qid=1681321038&sprefix=the+sound+and+the+fury%2Caps%2C170&sr=8-1</td>
+            </tr>
+            <tr>
+                <td>Sapiens: A Brief History of Humankind</td>
+                <td>Yuval Noah Harari</td>
+                <td>2010</td>
+                <td>https://www.amazon.com/Sapiens-Yuval-Noah-Harari-audiobook/dp/B0741F3M7C/ref=sr_1_1?crid=25QESGQSOJ24Z&keywords=sapiens+harari&qid=1681321183&sprefix=sapiens+harari%2Caps%2C160&sr=8-1</td>
+            </tr>
+            <tr>
+                <td>Enuma eliš y otros relatos babilónicos de la Creación</td>
+                <td>Lluís Feliu Mateu, Adelina Millet Albà</td>
+                <td>2014</td>
+                <td>https://www.amazon.com/babil%C3%B3nicos-Creaci%C3%B3n-Biblioteca-Ciencias-Orientales-ebook/dp/B09GRZ6XDY/ref=sr_1_1?crid=2FQFV32L8X5E6&keywords=Enuma+eli%C5%A1+y+otros+relatos+babil%C3%B3nicos+de+la+Creaci%C3%B3n&qid=1681321635&s=audible&sprefix=enuma+eli%C5%A1+y+otros+relatos+babil%C3%B3nicos+de+la+creaci%C3%B3n%2Caudible%2C377&sr=1-1</td>
+            </tr>
+        </table>
+    </body>
+</html>
